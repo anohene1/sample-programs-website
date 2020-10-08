@@ -29,6 +29,7 @@ The following table contains various test cases that you can use to verify the c
 | no input                     | None  | Usage: please input a number |
 | empty input                  | ""    | Usage: please input a number |
 | invalid input: not a number  | a     | Usage: please input a number |
+| invalid input: not enough digits  | 2     | Usage: number should have more than 1 figure |
 | sample input: palindrome     | 232   | true       |
 | sample input: not palindrome | 521   | false   |
 
